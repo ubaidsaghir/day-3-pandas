@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+
 
 data = {
     "name":["Ubaid","Usman","Umer","Awais"],

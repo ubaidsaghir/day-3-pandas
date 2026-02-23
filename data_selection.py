@@ -19,6 +19,7 @@ print(df.head())
 print(df.dropna())
 
 print(df.fillna(2))
+print(df.shape)
 
 # rename column 
 # print(df.rename(columns={"Parental_Involvement":"parent"}))
